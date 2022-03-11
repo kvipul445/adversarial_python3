@@ -1,5 +1,4 @@
 Generative Adversarial Networks
-===============================
 
 This repository contains the code and hyperparameters for the paper:
 
@@ -40,3 +39,8 @@ model using the Parzen density technique.
 Call pylearn2/scripts/train.py on the various yaml files in this repository
 to train the model for each dataset reported in the paper. The names of
 *.yaml are fairly self-explanatory.
+
+
+# adversarial_python3
+
+Python3.8.10 adversarial
